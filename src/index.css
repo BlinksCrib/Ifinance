@@ -1,0 +1,11 @@
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  border: none;
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--primary-color);
+  height: 1rem;
+}
